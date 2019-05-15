@@ -3,7 +3,7 @@
 esx_status
 
 # Installation
-1. Download 
+1. Download https://github.com/HarryElSuzio/basicneeds/archive/master.zip
 2. Extract folders in the esx directory
 3. Rename folders `esx_basicneeds`
 4. Import esx_basicneeds.sql in your database
